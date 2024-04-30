@@ -1,0 +1,9 @@
+spring.application.name=app-dev-conf-git
+
+# ===============================
+# = DATA SOURCE
+# ===============================
+# Set here configurations for the database connection
+# Dev permission
+spring.datasource.url=jdbc:postgresql://localhost:5432/metapell
+spring.datasource.password=admin
