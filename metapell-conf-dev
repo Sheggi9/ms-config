@@ -1,4 +1,4 @@
-spring.application.name=app-dev-conf-git
+spring.application.name=app-dev-conf-from-git
 
 # ===============================
 # = DATA SOURCE
