@@ -1,0 +1,9 @@
+spring.application.name=app-prod-conf-from-git
+
+# ===============================
+# = DATA SOURCE
+# ===============================
+# Set here configurations for the database connection
+# AWS permission
+spring.datasource.url=jdbc:postgresql://pg-database.chgci68o48ix.eu-north-1.rds.amazonaws.com:5432/metapell
+spring.datasource.password=XLMPEPE?
